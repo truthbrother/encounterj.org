@@ -1,5 +1,3 @@
-# Encounter Jesus
-
 Encounter Jesus Fellowship, or EJ (pronounced “edge”), is a network of Christian fellowships that seeks to help others encounter Jesus with the help of the Holy Spirit through the teaching of His Word, worship and prayer.
 
 It is our hope that we can do more than teach principles about finding purpose and meaning in life, discovering meaningful work, forging relationships, forgiving enemies, and so forth. These are all very important.
