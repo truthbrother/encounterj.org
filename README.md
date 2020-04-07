@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Encounter Jesus
 
-You can use the [editor on GitHub](https://github.com/truthbrother/encounterj.org/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Encounter Jesus Fellowship, or EJ (pronounced “edge”), is a network of Christian fellowships that seeks to help others encounter Jesus with the help of the Holy Spirit through the teaching of His Word, worship and prayer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is our hope that we can do more than teach principles about finding purpose and meaning in life, discovering meaningful work, forging relationships, forgiving enemies, and so forth. These are all very important.
 
-### Markdown
+But before talking about truths to live by, our sincerest desire is to introduce you to Truth Himself – in the Person of Jesus. Jesus says, “I am the way, the truth and the life. No one comes to the Father except through me.” [John 14:6]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Principles without knowing the Person from whom they are derived will leave you with a hollowed out faith.
 
-```markdown
-Syntax highlighted code block
+Through teaching, testimonies, singing and sharing of lives, we want to show Jesus Christ as the most glorious, majestic, brilliant Person we have ever met. Now we hope to introduce you to Him. For more info, email info@hillcc.org.
 
-# Header 1
-## Header 2
-### Header 3
+## Links
 
-- Bulleted
-- List
+- [Caltech Encounter Jesus](http://caltech.encounterj.org) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/truthbrother/encounterj.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Powered by [Easy Cloud Solutions](https://easycloudsolutions.com)
