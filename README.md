@@ -14,4 +14,4 @@ Through teaching, testimonies, singing and sharing of lives, we want to show Jes
 
 - [Caltech Encounter Jesus](http://caltech.encounterj.org) 
 
-Powered by <a href="https://easycloudsolutions.com" target="_blank">Easy Cloud Solutions</a>
+Powered by [Easy Cloud Solutions](https://easycloudsolutions.com)
