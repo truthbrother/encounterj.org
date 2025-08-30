@@ -17,4 +17,4 @@ Follow us on <a href="https://www.instagram.com/encounterjesus__/)" target="_bla
 
 ***
 
-Powered by <a href="https://easycloudsolutions.com" target="_blank">Easy Cloud Solutions</a>.
+Powered by <a href="https://easycloudsolutions.com" target="_blank">Easy Cloud Solutions</a>
