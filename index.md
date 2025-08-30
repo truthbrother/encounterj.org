@@ -1,17 +1,13 @@
 # Encounter Jesus
 
-Encounter Jesus Fellowship, or EJ (pronounced “edge”), is a network of Christian fellowships that seeks to help others encounter Jesus with the help of the Holy Spirit through the teaching of His Word, worship and prayer.
+Welcome to **Encounter Jesus Fellowship**. We are happy that you found us. 
 
-It is our hope that we can do more than teach principles about finding purpose and meaning in life, discovering meaningful work, forging relationships, forgiving enemies, and so forth. These are all very important.
+Our hope is to be a Christ-centered fellowship and ministry for people to gather, find commuity, and grow in faith, and most importantly--to **ENCOUNTER JESUS**!!!
 
-But before talking about truths to live by, our sincerest desire is to introduce you to Truth Himself – in the Person of Jesus. Jesus says, “I am the way, the truth and the life. No one comes to the Father except through me.” [John 14:6]
+We are not a church.
 
-Principles without knowing the Person from whom they are derived will leave you with a hollowed out faith.
+We will be meeting weekly on Saturdays @7:30PM.
 
-Through teaching, testimonies, singing and sharing of lives, we want to show Jesus Christ as the most glorious, majestic, brilliant Person we have ever met. Now we hope to introduce you to Him. For more info, email info@hillcc.org.
-
-## Links
-
-- [Caltech Encounter Jesus](http://caltech.encounterj.org) 
+**WHO YOU ARE: In your twenties, recent college grad looking for community, mentorship, and purpose in the season you're in.
 
 Powered by [Easy Cloud Solutions](https://easycloudsolutions.com)
