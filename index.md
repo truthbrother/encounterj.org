@@ -8,6 +8,11 @@ We are not a church.
 
 We will be meeting weekly on Saturdays @7:30PM.
 
+**Address** (hosted by Hill Community Church): 17200 Clark Ave, Bellflower, CA 90706
+(back building, 2nd floor)
+
 **WHO YOU ARE: In your twenties, recent college grad looking for community, mentorship, and purpose in the season you're in.
+
+***
 
 Powered by [Easy Cloud Solutions](https://easycloudsolutions.com)
