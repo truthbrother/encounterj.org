@@ -13,7 +13,7 @@ We will be meeting weekly on Saturdays @7:30PM.
 
 **WHO YOU ARE**: In your twenties, recent college grad looking for community, mentorship, and purpose in the season you're in.
 
-Follow us on [Instagram](https://www.instagram.com/encounterjesus__/)
+Follow us on [Instagram](https://www.instagram.com/encounterjesus__/).
 
 ***
 
