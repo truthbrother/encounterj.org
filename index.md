@@ -6,7 +6,7 @@ Our hope is to be a Christ-centered fellowship and ministry for people to gather
 
 We come from all different churches.
 
-We will be meeting weekly on Saturdays @7:30PM.
+We will be meeting weekly on Saturdays @7:00PM.
 
 **ADDRESS**: 17200 Clark Ave, Bellflower, CA 90706    
 (hosted by <a href="https://hillcc.org" target="_blank">Hill Community Church</a>, back building, 2nd floor)
